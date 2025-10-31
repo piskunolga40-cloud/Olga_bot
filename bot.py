@@ -1,7 +1,7 @@
 import telebot
 from flask import Flask, request
 
-TOKEN = "8392489985:AAFzxKRngsUkbPHQWjHX8glygdjL8..."  # токен в кавычках!
+TOKEN = "8392489985:AAFzxKRngsUkbPHQWjHX8glygdjL8JYhtTg"
 bot = telebot.TeleBot(TOKEN)
 app = Flask(__name__)
 
